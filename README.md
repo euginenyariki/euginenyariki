@@ -54,7 +54,8 @@ Also: networking (routers, switches, VPNs, firewalls), Windows/Linux administrat
 
 | Project | What it does | Links |
 |---|---|---|
-| **Sourcebook** | Open-education library with 3,000+ cited, readable resources, instant catalogue search and an x402 pay-per-call AI tutor. | [Code](https://github.com/euginenyariki/sourcebook) · [Live](https://sourcebook-bay.vercel.app) |
+| **LifeOS** | A local-first personal AI copilot for tasks, goals, focus sessions, notes and daily journaling — with session-scoped API keys and no secrets in source. | [Code](https://github.com/euginenyariki/lifeos) |
+| **Sourcebook** | Open-education library with 3,000+ cited, readable resources, instant catalogue search and an x402 pay-per-call AI tutor. | [Live](https://sourcebook-bay.vercel.app) |
 | **ROADIVA** | Roadside assistance marketplace for Kenya — request a mechanic, towing, fuel or battery service and track the job live. | [Code](https://github.com/euginenyariki/roadsafe) · [Live](https://roadiva.vercel.app) |
 | **HotspotPay** | M-Pesa-powered WiFi hotspot portal: customers pick a bundle and pay, a MikroTik agent issues the voucher automatically. | [Live](https://hotspotpay.vercel.app) |
 | **SchoolOS** | Multi-tenant school management SaaS — students, attendance, exams and fees with per-school isolation and white-label branding. | [Live](https://schoolos-bice.vercel.app) |
