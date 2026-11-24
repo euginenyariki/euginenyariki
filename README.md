@@ -65,6 +65,19 @@ Also: networking (routers, switches, VPNs, firewalls), Windows/Linux administrat
 | **POS Backend** | Point-of-sale service with Stripe payments, offline queue reconciliation, allowlisted payouts and multi-currency handling. | [Live](https://pos-system-mocha-pi.vercel.app) |
 | **VISAGE TATTOO** | Portrait tattoo studio site with studio sessions, travel booking and deposit payments. | [Live](https://visage-tattoo.vercel.app) |
 
+### Small tools — rebuilt from scratch, with live demos
+
+| Tool | What it does | Links |
+|---|---|---|
+| **Aster Resume Studio** | Structured résumé editor with live preview, JSON backup and print-to-PDF. | [Code](https://github.com/euginenyariki/my-website) · [Live](https://euginenyariki.github.io/my-website/) |
+| **DataLens** | Drop a CSV and get searchable tables, summary stats and grouped charts — no upload. | [Code](https://github.com/euginenyariki/my-datawebsite) · [Live](https://euginenyariki.github.io/my-datawebsite/) |
+| **Kesho** | Personal budget in KES with spending envelopes, six-month trend and CSV export. | [Code](https://github.com/euginenyariki/my-data) · [Live](https://euginenyariki.github.io/my-data/) |
+| **LinkShelf** | Bookmark manager with folders, tags, search and JSON import/export. | [Code](https://github.com/euginenyariki/my-websites) · [Live](https://euginenyariki.github.io/my-websites/) |
+| **Schola** | School operations dashboard — students, attendance, fees and timetable. | [Code](https://github.com/euginenyariki/my-school) · [Live](https://euginenyariki.github.io/my-school/) |
+| **Northstar IT** | IT consultancy site with an instant KES project estimate calculator. | [Code](https://github.com/euginenyariki/my-site) · [Live](https://euginenyariki.github.io/my-site/) |
+| **TeamBoard** | Kanban board with drag and drop, priorities, due dates and local autosave. | [Code](https://github.com/euginenyariki/project) · [Live](https://euginenyariki.github.io/project/) |
+| **VroomHub** | Car marketplace demo with filters, favourites and test-drive requests. | [Code](https://github.com/euginenyariki/vroomhubdata) · [Live](https://euginenyariki.github.io/vroomhubdata/) |
+
 Full portfolio and case studies: **[enyariki-portfolio.vercel.app](https://enyariki-portfolio.vercel.app)**
 
 ---
