@@ -54,7 +54,7 @@ Also: networking (routers, switches, VPNs, firewalls), Windows/Linux administrat
 
 | Project | What it does | Links |
 |---|---|---|
-| **LifeOS** | A local-first personal AI copilot for tasks, goals, focus sessions, notes and daily journaling — with session-scoped API keys and no secrets in source. | [Code](https://github.com/euginenyariki/lifeos) |
+| **LifeOS** | A local-first personal AI copilot for tasks, goals, focus sessions, notes and daily journaling — with session-scoped API keys and no secrets in source. | Private repository — contact for access |
 | **Sourcebook** | Open-education library with 3,000+ cited, readable resources, instant catalogue search and an x402 pay-per-call AI tutor. | [Live](https://sourcebook-bay.vercel.app) |
 | **ROADIVA** | Roadside assistance marketplace for Kenya — request a mechanic, towing, fuel or battery service and track the job live. | [Code](https://github.com/euginenyariki/roadsafe) · [Live](https://roadiva.vercel.app) |
 | **HotspotPay** | M-Pesa-powered WiFi hotspot portal: customers pick a bundle and pay, a MikroTik agent issues the voucher automatically. | [Live](https://hotspotpay.vercel.app) |
